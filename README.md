@@ -55,7 +55,7 @@ project-root/
 > Add screenshots here:
 
 * Dashboard
-  ![image](https://github.com/user-attachments/assets/0e8c9ae1-6fb0-4c68-ad2e-f265baf36d7d)
+  ![image](https://github.com/user-attachments/assets/f3e72d07-5551-4ed2-96a9-ebf38a31c846)
 
 * Upload Page
  ![image](https://github.com/user-attachments/assets/49a906d2-3381-4c52-83df-2c233aefce31)
