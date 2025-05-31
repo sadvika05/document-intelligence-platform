@@ -55,13 +55,15 @@ project-root/
 > Add screenshots here:
 
 * Dashboard
-  ![image](https://github.com/user-attachments/assets/f3e72d07-5551-4ed2-96a9-ebf38a31c846)
+ ![image](https://github.com/user-attachments/assets/f4da0097-9a16-4d39-a697-70870406d258)
+
 
 * Upload Page
- ![image](https://github.com/user-attachments/assets/49a906d2-3381-4c52-83df-2c233aefce31)
+![image](https://github.com/user-attachments/assets/e7de1905-297c-4b40-86c2-e95afcfb1049)
+
 
 * Q\&A Interface
-  ![image](https://github.com/user-attachments/assets/0e3fe9e9-b0a2-4488-99a8-5e0e3c3d2fad)
+  ![image](https://github.com/user-attachments/assets/0d558ff4-6db5-460a-bf26-53b2b3d79753)
 
 
 ## 🛠️ Setup Instructions
