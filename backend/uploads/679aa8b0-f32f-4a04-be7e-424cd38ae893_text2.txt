@@ -1,0 +1,9 @@
+At Acme Corporation, the employee code of conduct serves as the foundation for professional behavior. All employees are expected to adhere to principles of integrity, accountability, and transparency in every interaction, both internally and externally.
+
+Employees must not disclose confidential company data unless explicitly authorized. Violations may lead to disciplinary action, including termination. Remote work must be approved by a department head and recorded in the company’s HR portal. Employees working remotely must maintain the same productivity and communication standards as in-office staff.
+
+Acme encourages innovation, and any intellectual property developed during work hours or using company resources belongs to the company, unless otherwise stated in a written agreement. Conflict of interest must be declared in writing to the HR department before engaging in any external consultancy or side business activities.
+
+All employees undergo mandatory security training every quarter to stay compliant with ISO 27001 standards.
+
+Questions or concerns about the policy should be addressed to the People Operations team.
