@@ -27,10 +27,11 @@ a:hover {
 }
 
 body {
+
   margin: 3%;
-  /* padding: 3%; */
-  min-width: 300px;
-  min-height: 100vh;
+  padding: 3px;
+  /* min-width: 100vh;
+  min-height: 100vh; */
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
